@@ -1,9 +1,17 @@
 body{
-  background-color: darkgrey;  
+  background-color: darkgrey;
+  font-family: 'Oswald', sans-serif;
 }
 
 #content{
-    width: 180px;
-    height: 40px;
+    width: 210px;
+    height: 65px;
     background-color: aquamarine;
+    border-radius: 10px;
+    margin: auto;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
